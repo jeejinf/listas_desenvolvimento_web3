@@ -18,6 +18,7 @@ Antes de iniciar, certifique-se de ter os seguintes pré-requisitos instalados:
 
 ```sql
 CREATE DATABASE sistema_autobots;
+```
 
 Configure as credenciais do banco de dados no arquivo
 `src/main/resources/application.properties` ou `src/main/resources/application.yml`,
